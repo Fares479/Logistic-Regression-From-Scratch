@@ -31,4 +31,4 @@ This project implements **Logistic Regression from scratch** using **NumPy** wit
 
 ## Author
 
-**Fares Waleed**
+**Fares**
